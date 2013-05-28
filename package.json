@@ -1,0 +1,21 @@
+{
+    "name": "Fixed-To-Top",
+    "version": "0.0.1",
+    "description": "原生 JavaScript 的 fixed 效果的返回顶部，页面滚出一屏时出现",
+    "homepage": "https://github.com/wange1228/fixed-to-top",
+    "author": {
+        "name": "万戈",
+        "email": "i@wange.im",
+        "url": "http://wange.im"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wange1228/fixed-to-top.git"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-uglify": "~0.2.1",
+        "grunt-contrib-coffee": "~0.7.0",
+        "grunt-contrib-watch": "~0.4.3"
+    }
+}
